@@ -1,3 +1,5 @@
+<!DOCTYPEhtml>
+<html lang="PT-BR">
 <html>
 <head> barbeiro iniciante </head>
 <title> sonho de barbeiro </title>
@@ -17,4 +19,37 @@
 <li> sobrancelha </li>
 <li> freeytaly </li>
 </ul>
+<a hrf="https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjjwp7m0oSKAxUtLkQIHXAuAwoYABADGgJkeg&ae=2&co=1&ase=5&gclid=EAIaIQobChMI48Ke5tKEigMVLS5ECB1wLgMKEAAYASAAEgJVd_D_BwE&ohost=www.google.com&cid=CAASJeRoxBqkfsrh_w06kt-tPd2w9w3mkrhzR0nSo0GSPwPiQ2Kfv9Y&sig=AOD64_0FaS9M6_mlfTMdhc7aUQj0HPM7qA&q&adurl&ved=2ahUKEwitrZbm0oSKAxV0lZUCHby8DckQ0Qx6BAgjEA
+<imgsrc="https://negociosdebeleza.beautyfair.com.br/wp-content/uploads/2023/06/corte-de-cabelo-masculino.webp">
+<table border="1">
+<thead> PREÇOS
+<tr><th> corte degradê</th>
+<th> barba</th>
+<th> sobrancelha</th>
+<th> corte social</th></tr>
+<tr> <th> 12$</th>
+ <th> 10</th>
+<th> 5  </th>
+<th>  12  </th></tr>
+<FORM action>\\
+<label for="nome"> navalhado ou não</label>
+<input type=" mensagem "id=" mensagem" nome=" tipo de corte" required>
+<button type=" submit"> enviar</button>
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</BOBY>
 </html>
